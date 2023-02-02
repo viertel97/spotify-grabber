@@ -1,3 +1,15 @@
+*.json
+notebooks/
+
+*.log
+*.pickle
+
+.idea
+.vscode
+__pycache__
+
+get_token.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
